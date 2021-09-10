@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T09:05:27.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="xHJpN2oC-nX_iq0ceqgL" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T09:07:48.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="4Ay8LwyOyTfgtO5Qv0cp" version="15.0.6" type="github">
   <diagram id="R1DJAMPizFfuilNUYXzs" name="ページ1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,6 +117,40 @@
         </mxCell>
         <mxCell id="3-N0So9gWJrStao13v9P-32" value="git clone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="520" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3-N0So9gWJrStao13v9P-33" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;strokeColor=#34A853;dashed=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3-N0So9gWJrStao13v9P-15" target="3-N0So9gWJrStao13v9P-12">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="660.0260700000003" y="230.01999999999998" as="sourcePoint" />
+            <mxPoint x="488.30999999999995" y="397.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="439" y="320" />
+              <mxPoint x="314" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3-N0So9gWJrStao13v9P-34" value="リストの取得" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="428.86" y="143.75" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3-N0So9gWJrStao13v9P-35" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3-N0So9gWJrStao13v9P-12" target="3-N0So9gWJrStao13v9P-3">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="230" y="170" as="sourcePoint" />
+            <mxPoint x="324.29999999999995" y="227.60000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3-N0So9gWJrStao13v9P-36" value="OAuth2.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="348.86" y="300" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3-N0So9gWJrStao13v9P-37" value="download" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="562.8" y="367.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3-N0So9gWJrStao13v9P-38" value="upload" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="300" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3-N0So9gWJrStao13v9P-39" value="nfsで送信" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="449.99999999999994" y="505" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3-N0So9gWJrStao13v9P-40" value="定義更新" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="259.99999999999994" y="367.5" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
